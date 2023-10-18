@@ -4,7 +4,7 @@
 4.Added firstFile.txt to git_1
 5.Added firstFile.txt to git_1
 6.Added firstFile.txt to git_1
-7.Added firstFile.txt to git_1
-8.Added firstFile.txt to git_1
+7.Added firstFile.txt to git_1 change another1 git_1
+8.Added firstFile.txt to git_1 change another2 git-1
 9.Added firstFile.txt to git_1 change1 branch git_1
 10.Added firstFile.txt to git_1 chang2 branch git_1
