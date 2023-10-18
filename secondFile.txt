@@ -8,3 +8,5 @@
 8. Added secondFile.txt to git_1
 9. Added secondFile.txt to git_1 change1 in git_1
 10. Added secondFile.txt to git_1 change2 in git_1
+11. Added secondFile.txt to git_1change1
+12. Added secondFile.txt to git_1change2
